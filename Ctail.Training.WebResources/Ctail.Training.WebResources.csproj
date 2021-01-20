@@ -80,6 +80,25 @@
     <TypeScriptCompile Include="Scripts\Entities\Training\FormLibrary.ts" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Auto Number\Auto Number.svg" />
+    <Content Include="Images\Auto Number\Auto Number_16x16.png" />
+    <Content Include="Images\Auto Number\Auto Number_32x32.png" />
+    <Content Include="Images\Groups\Group.svg" />
+    <Content Include="Images\Groups\Group_16x16.png" />
+    <Content Include="Images\Groups\Group_32x32.png" />
+    <Content Include="Images\Rating\Rating.svg" />
+    <Content Include="Images\Rating\Rating_16x16.png" />
+    <Content Include="Images\Rating\Rating_32x32.png" />
+    <Content Include="Images\Registration\Registration.svg" />
+    <Content Include="Images\Registration\Registration_16x16.png" />
+    <Content Include="Images\Registration\Registration_32x32.png" />
+    <Content Include="Images\Training Slots\TrainingSlots-16x16.png" />
+    <Content Include="Images\Training Slots\TrainingSlots-32x32.png" />
+    <Content Include="Images\Training Slots\TraningSlot.svg" />
+    <Content Include="Images\TrainingModule.svg" />
+    <Content Include="Images\Training\Training.svg" />
+    <Content Include="Images\Training\Training_16x16.png" />
+    <Content Include="Images\Training\Training_32x32.png" />
     <Content Include="Scripts\Entities\Training\FormLibrary.js" />
   </ItemGroup>
   <ItemGroup>
